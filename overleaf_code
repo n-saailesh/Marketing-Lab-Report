@@ -1,0 +1,156 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage[document]{ragged2e} %text alingment
+
+\usepackage{microtype}
+\usepackage{hyperref}
+\usepackage{url}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{lineno}
+
+
+\title{Personalizable Soap Market in Canada }
+\author{Alex Abraha, Saailesh Narendran}
+\date{March 2025}
+
+
+\newcommand{\fix}{\marginpar{FIX}}
+\newcommand{\new}{\marginpar{NEW}}
+\usepackage{float}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+    Soap is a crucial component to human hygiene today. The amount, type, occurrence of usage, age, and marination are only a few factors to the full effect of soap. With individuals having different types of DNA and genes, finding the best possible soap tailored to each individual is currently the problem and trend that companies are trying to overcome, along with being the most environmentally-friendly. Personalized soap is growing in most hygienic companies, however with the repetitive process of reusing plastic bottles, it creates an environmental hazard. SensiImage Technologies Ltd provides an innovative approach by creating a soap dispenser by ordering the skin-based oil. This article visits the personalized soap market in Canada and its potential in the near future.
+
+\end{abstract}
+
+\section*{Innovation}
+
+
+% l.\begin{Innovation}
+Personalized soap companies strictly adhere to natural ingredients in their products. By increasing the organicity of these customization soaps, customers feel relieved of worries of outbreaks, rashes, and ancestry. Companies are trending toward being transparent about the usage of their ingredients to help gain customer trust. In addition, organic certifications and plant-based formations are also provided on the product. Products will display the full production including the ingredients, blend of oils, scents, exfoliation levels. Furthermore, companies have been moving away from plastic and towards biodegrade material for packing. Companies are committed to the environmental movement, since it not only reduces energy consumption but also reduces consumer pressure for eco-friendly products. Along with these companies needed to maintain environmental regulations, Extended Producer Responsibility (EPR), it also allows companies to keep a clean reputation with the public. In modern times, social media presence is a crucial factor to a company’s success. With technology and artificial intelligence evolving incoming generations, companies are taking advertising and expressing their presence on social platforms.  
+
+% l.38 \end{Innovation}
+
+\section*{Figure 1: Tofino Soap Company Estimated Revenue Growth}
+
+Tofino Soap Company is a cosmetic company founded in 2010. They prioritize sustainable harvesting practices and reduce any production with chemicals. Based on Fortune Business Insights, Tofino Soap Company’s success is also due to their increase of social exposure. Since 2020, they have created accounts on social platforms, including Instagram and TikTok, which have gained thousands of views, resulting in increased sales. Moreover, the current sustainability within businesses is the current question in personalized soap business. Customers are looking to select specific scents, ingredients and formulas. They ensure ingredients are organic, becoming more health-conscious and environmentally-aware. With many evolutions in ingredients and consumers’ needs, companies are forced to continuously plan for the future.  
+
+
+\includegraphics{graoh1.png} 
+Tofino Soap Company is a cosmetic company founded in 2010. They prioritize sustainable harvesting practices and reduce any production with chemicals. Based on Fortune Business Insights, Tofino Soap Company’s success is also due to their increase of social exposure. Since 2020, they created accounts of social platforms including Instagram and TikTok, which gained thousands of views, thus resulting in an increase of sales. Moreover, the current sustainability within businesses is the current question in personalized soap business. Customers are looking to select specific scents, ingredients and formulas. They ensure ingredients are organic, becoming more health-conscious and environmentally-aware. With many evolutions in ingredients and consumers’ needs, companies are forced to continuously plan for the future.  
+
+
+\section*{Market Expansion}
+In 2023, handmade soap is valued at 158.79 million USD (“Global Handmade Soap Market Size by Product Type, by Ingredient Type, by End User, by Geographic Scope and Forecast”). With the huge demand for natural, personalized soap due to customers’ sudden need for a health conscious lifestyle, it is expected to grow 5.9% till 2031.
+
+\includegraphics{graph2.png} 
+
+
+\section*{Body Wash Tag in Canada}
+On the premium end, Bath \& Body Works Canada offers products like the Coco Shea Rich Moisture Moisturizing Body Wash, which was previously listed at \$20.95 CAD but has been discounted to \$5.95 CAD during promotions. This indicates that while premium products are available, consumers can take advantage of sales to purchase them at more accessible prices (“Body Wash and Shower Gel | Bath \& Body Works Canada”). Mid-range options are also prevalent. For example, ATTITUDE's Super leaves™ Shower Gel (473 mL) is available for \$12.95 CAD, catering to consumers seeking products with natural ingredients.
+
+\section*{Body Wash Tag in United States}
+In the United States, the body wash market similarly spans a broad price range. At Target, the up\&up™ Sensitive Skin Body Wash (Eczema Seal, Fragrance-Free) is priced between $4.99 and $7.49 USD, offering an economical choice for consumers with sensitive skin. (“MUJI”). Premium options are also available in the U.S. market. For instance, Le Labo's Hinoki Shower Gel is listed at \$58 USD, targeting consumers seeking luxury personal care products (https://www.facebook.com/realsimple). Both Canada and the USA offer a wide spectrum of body wash products catering to various consumer preferences and budgets. Entry-level products in both markets are priced similarly, typically ranging from $4 to $8 in their respective currencies. Mid-range products occupy the $10 to $15 bracket, while premium products can exceed \$20, with luxury brands commanding higher prices. It's important to note that prices can fluctuate based on retailer promotions, product availability, and regional factors. Consumers are advised to compare prices across multiple retailers and consider factors such as product size, ingredients, and brand reputation when making purchasing decisions. In conclusion, the body wash liquid market in both Canada and the USA is characterized by a diverse range of products and prices, ensuring that consumers have access to options that align with their preferences and budgets.
+
+\section*{Personalized Body Wash Brands in Canada and USA:% Requires: \usepackage{array}
+\begin{table}[h]
+    \centering
+    \begin{tabular}{|p{3.5cm}|p{10cm}|}
+        \hline
+        \textbf{Brand} & \textbf{Description} \\
+        \hline
+        Function of Beauty & 
+        \begin{itemize}
+            \item Each 16 oz (473 mL) bottle is priced at \$36.00 USD
+            \item Formulations are vegan, cruelty-free, and gluten-free, with options for dye-free and fragrance-free products
+            \item Customization includes selecting the color and fragrance to suit your preferences
+        \end{itemize} \\
+        \hline
+        AURA & 
+        \begin{itemize}
+            \item Body cleanser infused with premium ingredients like Argan Oil and Vitamin E
+            \item Chosen from six signature fragrances or opt for a fragrance-free version
+            \item Each 295 mL bottle is priced at \$42.00 CAD
+        \end{itemize} \\
+        \hline
+        Rustic Strength & 
+        \begin{itemize}
+            \item The 1-gallon (approximately 3.78 liters) plastic jug priced at \$44.61 USD
+            \item Include a 1-gallon glass jug, 5-gallon eco jug, and even a 275-gallon tote
+        \end{itemize} \\
+        \hline
+        Etsy Canada & 
+        \begin{itemize}
+            \item Prices vary, with many products available for under CA\$25
+        \end{itemize} \\
+        \hline
+    \end{tabular}
+    \caption{Comparison of Brand Descriptions}
+    \label{tab:brand_descriptions}
+\end{table}}
+
+\section*{Challenges}
+Factors that companies face in creating the personalized soap. There are many laws that must be regulated to ensure that chemical handling is done safely without risk of explosion. Based on the U.S chemical Safety Board in 2020, it was stated in Accidental Release Reporting Rule, that there have been 162 chemical mis-handling which resulted with 25 fatalities, 92 serious injuries, and 68 instances of property damage (CSB). 
+
+% Requires: \usepackage{array}
+\begin{table}[h]
+    \centering
+    \begin{tabular}{|p{3.5cm}|p{10cm}|}
+        \hline
+        \textbf{Brand} & \textbf{Description} \\
+        \hline
+        Function of Beauty & 
+        \begin{itemize}
+            \item Each 16 oz (473 mL) bottle is priced at \$36.00 USD
+            \item Formulations are vegan, cruelty-free, and gluten-free, with options for dye-free and fragrance-free products
+            \item Customization includes selecting the color and fragrance to suit your preferences
+        \end{itemize} \\
+        \hline
+        AURA & 
+        \begin{itemize}
+            \item Body cleanser infused with premium ingredients like Argan Oil and Vitamin E
+            \item Chosen from six signature fragrances or opt for a fragrance-free version
+            \item Each 295 mL bottle is priced at \$42.00 CAD
+        \end{itemize} \\
+        \hline
+        Rustic Strength & 
+        \begin{itemize}
+            \item The 1-gallon (approximately 3.78 liters) plastic jug priced at \$44.61 USD
+            \item Include a 1-gallon glass jug, 5-gallon eco jug, and even a 275-gallon tote
+        \end{itemize} \\
+        \hline
+        Etsy Canada & 
+        \begin{itemize}
+            \item Prices vary, with many products available for under CA\$25
+        \end{itemize} \\
+        \hline
+    \end{tabular}
+    \caption{Comparison of Brand Descriptions}
+    \label{tab:brand_descriptions}
+\end{table}
+
+\section*{Conclusion}
+The customization soap market is niche, yet a profitable market in the near future. It gives clients the opportunity to understand what they apply to their body, but also be able to customize their products to their needs. Sensilmage Technologies Ltd innovates their product to the market by creating the non-recurring need to continuously retrieve products from stores, but instead create the product at home with delivered oils. By heavily reducing their environmental-impact, they can create a great entrance to the market with their product. In a world where cosmetics’ packaging play a crucial factor in climate change, it is comforting to know that companies such as Sensilmage Technologies Ltd, can create innovative products to create a change.
+
+\section*{Work Cited}
+
+“Body Wash and Shower Gel | Bath & Body Works Canada.” Bath and Body Works Canada, 2025, www.bathandbodyworks.ca/en/c/body-care/body-wash-shower-gel/?srsltid=AfmBOorxZNHu_GYaW9XnNhUBcqT03wa9vUXCh5SJlraMqR9cyiQlKdbv.  Accessed 14 Mar. 2025.
+
+CSB. “U.S. Chemical Safety and Hazard Investigation Board | CSB.” Csb.gov, 2014, www.csb.gov/. 
+
+“Global Handmade Soap Market Size by Product Type, by Ingredient Type, by End User, by Geographic Scope and Forecast.” Verified Market Research, 25 Oct. 2024, www.verifiedmarketresearch.com/product/handmade-soap-market/.
+
+“How to Start a Handmade Soap Business - StartUp 101.” StartUp 101, 24 Jan. 2025, startup101.com/business-ideas/handmade-soap/.  Accessed 13 Mar. 2025.
+
+https://www.facebook.com/realsimple. “We Tested 50 Body Washes—These Are Our Top 12.” Real Simple, 2022, www.realsimple.com/best-body-washes-6824611.  Accessed 14 Mar. 2025.
+“MUJI.” MUJI, 2023, muji.ca/collections/esg-measures, https://doi.org/10/3193/t/623. Accessed 10 Nov. 2024.
+
+
+
+\end{document}
