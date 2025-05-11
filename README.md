@@ -1,4 +1,4 @@
-#Market Research Initiative for the Customized Soap:
+# Market Research Initiative for the Customized Soap
 
 
 
